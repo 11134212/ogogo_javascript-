@@ -1,0 +1,26 @@
+.gg{
+    /* Внутренний отступ */
+    padding:15px 0 15px 15px;   
+}
+button{
+    background-color: #FFFFFF;
+    /* Цвет текста */
+    color: #858585;
+    /* растояние между буквами */
+    letter-spacing: 0.2px;
+    padding: 8px 16px;
+    /* жирность шрифта */
+    font-weight: 700;
+    /* размер шрифта */
+    font-size: 18px;
+    /* цвет и размер страницы  */
+    border: 1px solid;
+    /* округление бордера */
+    border-radius: 16px;
+    cursor: pointer;
+}
+#action{
+    color: #FFFFFF;
+    background-color: #6C5CE7;
+    margin-left: 15px;
+}
